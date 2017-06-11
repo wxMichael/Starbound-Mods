@@ -1,4 +1,4 @@
-# <img src="https://github.com/wxMichael/Starbound-Mods/blob/master/_media/LightTheWay_icon.png" width="32px"> Light the Way
+# <img src="https://github.com/wxMichael/Starbound-Mods/blob/master/_media/LightTheWay_icon.png" width="48px"> Light the Way
 Adds a light augment effect of the appropriate level to all other augments.
 e.g. Damage II will have Light II. Augments without a level have Light III.
 
