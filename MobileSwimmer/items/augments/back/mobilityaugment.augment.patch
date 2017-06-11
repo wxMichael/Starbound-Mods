@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/augment/effects/-",
+    "value": "swimboost"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/augment/effects/-",
+    "value": "lightaugment1"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An EPP module that slightly boosts your damage output.\nIncludes ^green;Light I"
+  }
+]

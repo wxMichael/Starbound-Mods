@@ -1,0 +1,9 @@
+{
+  "author" : "wxMichael",
+  "description" : "Adds the Swimming Augment's effects to the Mobility Augment.\n\nThis will only affect newly applied augments.\n\nCompatibility:\nThis mod uses Starbound's patching system, so it should be compatible with all other mods and future game updates.",
+  "friendlyName" : "Mobile Swimmer",
+  "link" : "steam://url/CommunityFilePage/734725275",
+  "name" : "Mobile Swimmer",
+  "steamContentId" : "734725275",
+  "version" : "1.0"
+}

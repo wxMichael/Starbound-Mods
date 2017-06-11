@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/augment/effects/-",
+    "value": "lightaugment3"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An EPP module that boosts your movement speed and jumping power.\nIncludes ^green;Light III"
+  }
+]

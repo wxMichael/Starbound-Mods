@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/augment/effects/-",
+    "value": "lightaugment3"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A pluggable EPP module that boosts your mobility when swimming.\nIncludes ^green;Light III"
+  }
+]
