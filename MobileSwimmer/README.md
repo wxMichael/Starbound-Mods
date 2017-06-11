@@ -1,4 +1,4 @@
-# Mobile Swimmer
+# <img src="https://github.com/wxMichael/Starbound-Mods/blob/master/_media/MobileSwimmer_icon.png" height="48px"> Mobile Swimmer
 Adds the Swimming Augment's effects to the Mobility Augment.
 
 This will only affect newly applied augments.
