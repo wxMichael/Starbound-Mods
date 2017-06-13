@@ -8,7 +8,7 @@ This mod uses Starbound's patching system, so it should be compatible with all o
 
 ## Download
 * [Mobile Swimmer](https://steamcommunity.com/sharedfiles/filedetails/?id=734725275) on Starbound Workshop for Steam
-* [Releases](https://github.com/wxMichael/Starbound-Mods/releases) page for non-Steam.
+* [Releases](https://github.com/wxMichael/Starbound-Mods/releases) on GitHub for non-Steam.
 
 ## License
 No license is provided yet for this mod, and no permissions granted.
